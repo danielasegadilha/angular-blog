@@ -1,6 +1,7 @@
-# Blog
+# Cheaptrip
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+It's a travel blog called "Cheaptrip". It's focused on giving tips to travellers make cheaper trips and optimize their time. Concept and layout designed by me.
 
 ## Development server
 
